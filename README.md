@@ -8,7 +8,7 @@ Ky është një projekt i thjeshtë mësimor i ndërtuar me Python për lëndën
 - **Version Control:** Git & GitHub
 
 ## Linqet e Projektit
-- **Linku i Figma-s:** [SHTO_LINKUN_E_FIGMAS_KETU]
+- **Linku i Figma-s:** https://www.figma.com/design/Rfn0nvIBcSq6cmClNqihWB/Untitled?node-id=0-1&t=ZyktC0DTY98q9vck-1
 - **Linku i GitHub Repository:** https://github.com/davidtoplanaj07-hub/Kuizi-interaktiv-ne-Ed-Tech
 
 ## AI Declaration (Deklarimi i përdorimit të AI)
