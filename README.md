@@ -6,6 +6,7 @@ Ky është një projekt i thjeshtë mësimor i ndërtuar me Python për lëndën
 - **Gjuha e programimit:** Python
 - **Dizajni (Wireframe):** Figma
 - **Version Control:** Git & GitHub
+- **Linku i faqes së publikuar (Deployment):** https://kuizi-interaktiv-ne-ed-tech.vercel.app/
 
 ## Linqet e Projektit
 - **Linku i Figma-s:** https://www.figma.com/design/Rfn0nvIBcSq6cmClNqihWB/Untitled?node-id=0-1&t=ZyktC0DTY98q9vck-1
